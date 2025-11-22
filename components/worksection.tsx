@@ -9,7 +9,7 @@ function WorkSection() {
             <Row className='mb-3'>
                 <Col md={12} className="text-center">
                     <h2>What We Work</h2>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem, officiis?</p>
+                    <p>Track films you’ve watched.Save those you want to see.Tell your friends what’s good.</p>
                 </Col>
             </Row>
             <Row>
