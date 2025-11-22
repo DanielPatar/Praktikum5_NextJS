@@ -25,13 +25,13 @@ export default function Home() {
             <h2>About Us</h2>
             <h6>What we do?</h6>
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt ea nostrum dicta pariatur! Repudiandae, veniam libero! Minus iste nam consectetur eaque quasi, porro asperiores?
+              Write and share reviews. Compile your own lists. Share your life in film.
             </p>
             <Button variant="info">Learn More</Button>
             </Col>
             <Col md={6}>
             <p>
-              <Image src="/images/Banner1.png" alt="About us" width={500} height={300}></Image>
+              <Image src="/images/nolantarantino.webp" alt="About us" width={500} height={300}></Image>
             </p>
             </Col>
           </Row>
