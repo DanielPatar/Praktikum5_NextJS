@@ -10,19 +10,19 @@ interface Slide {
 const HeroSection = () => {
     const slides: Slide[] = [
         {
-            title: "First Slide Title",
+            title: "Back to the Future",
             subtitle: "This is the subtitle for the first slide.",
-            imageUrl: "/images/Banner1.png"
+            imageUrl: "/images/future.jpg"
         },
         {
-            title: "Second Slide Title",
+            title: "Shutter Island",
             subtitle: "This is the subtitle for the second slide.",
-            imageUrl: "/images/Banner2.png"
+            imageUrl: "/images/shutter island.jpg"
         },
         {
-            title: "Third Slide Title",
+            title: "Taxi Driver",
             subtitle: "This is the subtitle for the third slide.",
-            imageUrl: "/images/Banner3.png"
+            imageUrl: "/images/taxi.jpg"
         }
     ];
 

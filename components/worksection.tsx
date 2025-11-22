@@ -15,13 +15,13 @@ function WorkSection() {
             <Row>
                 <Col md={4} className="mb-3">
                     <Card>
-                        <Card.Img variant="top" src="/images/Banner1.png"></Card.Img>
+                        <Card.Img variant="top" src="/images/godfather.jpg"></Card.Img>
                         <Card.Body>
                             <Card.Title>
-                                Rice with wild boar liver and cutted chese form texas
+                                The Godfather
                             </Card.Title>
                             <Card.Text>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam sunt veritatis voluptas explicabo sapiente.
+                                Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.
                             </Card.Text>
                             <Button variant="primary">Read More</Button>
                         </Card.Body>
@@ -29,13 +29,13 @@ function WorkSection() {
                 </Col>
                 <Col md={4} className="mb-3">
                     <Card>
-                        <Card.Img variant="top" src="/images/Banner2.png"></Card.Img>
+                        <Card.Img variant="top" src="/images/goodfellas.jpg"></Card.Img>
                         <Card.Body>
                             <Card.Title>
-                                Rice with wild boar liver and cutted chese form texas
+                                GoodFellas
                             </Card.Title>
                             <Card.Text>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam sunt veritatis voluptas explicabo sapiente.
+                                The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.
                             </Card.Text>
                             <Button variant="primary">Read More</Button>
                         </Card.Body>
@@ -43,13 +43,13 @@ function WorkSection() {
                 </Col>
                 <Col md={4} className="mb-3">
                     <Card>
-                        <Card.Img variant="top" src="/images/Banner3.png"></Card.Img>
+                        <Card.Img variant="top" src="/images/schindler's list.jpg"></Card.Img>
                         <Card.Body>
                             <Card.Title>
-                                Rice with wild boar liver and cutted chese form texas
+                                Schindler’s List
                             </Card.Title>
                             <Card.Text>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam sunt veritatis voluptas explicabo sapiente.
+                                The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.
                             </Card.Text>
                             <Button variant="primary">Read More</Button>
                         </Card.Body>
