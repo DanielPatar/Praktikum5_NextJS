@@ -15,9 +15,9 @@ const HeroSection = () => {
             imageUrl: "/images/future.jpg"
         },
         {
-            title: "Shutter Island",
+            title: "Pulp Fiction",
             subtitle: "This is the subtitle for the second slide.",
-            imageUrl: "/images/shutter island.jpg"
+            imageUrl: "/images/pulp.jpg"
         },
         {
             title: "Taxi Driver",
